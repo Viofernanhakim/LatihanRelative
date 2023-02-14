@@ -32,7 +32,7 @@
                 android:layout_width="36dp"
                 android:layout_height="36dp"
                 android:scaleType="centerCrop"
-                android:src="@drawable/ic_baseline_mark_unread_chat_alt_24"
+                android:src="@drawable/baseline_mark_unread_chat_alt_24"
                 android:layout_alignParentRight="true"
                 android:layout_centerVertical="true"
                 android:layout_marginRight="20dp"
